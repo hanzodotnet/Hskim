@@ -1,0 +1,56 @@
+body {
+    width: 100%;
+    margin: auto;
+    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+    background-color: gray;
+
+    
+}
+main {
+    background-color: black;
+    
+}
+img {
+    /*border-radius: 20px;*/
+    /* width: 650px;
+    height: 650px;
+    gap: 5px;
+    display: flex; */ 
+}
+/*=============================================================================================== */ 
+    
+/*Classes */
+.text {
+    background-color: white;
+    border-radius: 5px;
+}
+.container {
+    display: flex;
+    flex-direction: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; /*espaçamento dos conteudos */ 
+
+
+}
+.container h3 { /* Titulo onde será adicionado a data */ 
+    gap: 5px;
+
+    background-color: rgb(70, 69, 69);
+}
+.container p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; /* fontes */ 
+    font-size: 20px;
+
+    background-color: rgb(160, 158, 158);
+}
+.titulo {
+    text-align: center;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    background-color: rgb(70, 69, 69) ;
+}
+/*============================================================================= */

@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+
+    
+}
+img{    width: 700px;   margin-left: auto;  margin-right: auto; text-align: center; border-radius: 50%;}
+.bonus{
+    color: white;
+}
+
+.image {
+    /*Não tenho a minima ideia de como diminuir esta imagem. kenner u can't help me? lol */
+    
+    border-radius: 25%;
+}
